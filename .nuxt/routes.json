@@ -1,0 +1,16 @@
+[
+  {
+    "name": "home-id",
+    "path": "/home/:id?",
+    "component": "C:\\\\Users\\\\moh\\\\NuxtBnB\\\\pages\\\\home\\\\_id.vue",
+    "chunkName": "pages/home/_id",
+    "_name": "_295bbe57"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\moh\\\\NuxtBnB\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_c2b01e24"
+  }
+]
